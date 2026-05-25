@@ -1,5 +1,4 @@
 from tkinter import Tk, ttk
-from tkinter import messagebox
 
 if __name__ == "__main__":
     root = Tk()
